@@ -229,3 +229,38 @@
         border:none;
         background-color: antiquewhite;
 }
+.newsletter{
+    background-color: #C6E4D6;
+    margin-top: 30px;
+
+}
+.news-button{
+    display:flex;
+    align-items: center;
+    overflow: hidden;
+    justify-content:center;
+    border-radius:20px;
+    border:1px solid red;
+    
+}
+.newsletter input{
+    width:60%;
+    height:25px;
+    border:none;
+    border:1px solid red;
+    border-radius:8px 0px 0px 8px;
+    
+}
+.newsletter button{
+    margin-left: 0px;
+    color:white;
+    background-color: #015240;
+    font-size: 20px;
+    width: 100px;
+    height:30px;
+    border:none;
+    border:1px solid red;
+    border-radius:0px 8px 8px 0px;
+    
+    
+}
