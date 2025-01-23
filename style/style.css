@@ -12,25 +12,20 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid red;
 }
 .banner-section{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid red;
     background-color: #C6E4D6;
     border-radius: 8px;
 }
 .banner-text{
     margin-left: 20px;
-    border:1px solid red;
     width: 600px;
     height: 230px;
 }
 .banner-text h1{
-    
-    border:1px solid red;
     font-weight: 600;
     font-size: 40px;
     margin-top: 10px;
@@ -40,7 +35,6 @@
     font-size: 20px;
     font-weight:300;
     opacity: 0.7;
-    border:1px solid red;
 }
 .banner-section button{
     background-color:#006A50;
@@ -65,7 +59,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border:1px solid red;
 }
 .card-icon1{
     background-color: #b2b4b8;
@@ -74,7 +67,6 @@
     border-radius: 8px;
     margin-top:10px;
     margin-right:10px;
-    border:1px solid red;
 
 }
 .card-icon2{
@@ -85,7 +77,6 @@
     margin-top:10px;
     margin-right:2px;
     margin-left:5px;
-    border:1px solid red;
 
 }
 .card-icon3{
@@ -95,11 +86,9 @@
     border-radius: 8px;
     margin-top:10px;
     margin-left:10px;
-    border:1px solid red;
 
 }
 .space{
-     border:1px solid red;
      padding:20px 10px 20px 10px;
 }
 .btn1{
@@ -159,7 +148,6 @@
 .recent-news{
     background-color: antiquewhite;
     border-radius: 8px;
-    border:1px solid red;
     margin-top: 20px;
 }
 .recent-card{
@@ -173,7 +161,6 @@
     padding-right: 5px;
 }
 .border{
-    border: 1px solid red;
 }
 .bor-ra{
     border-radius: 10px;
@@ -195,7 +182,6 @@
     justify-content:space-around;
     align-items: center;
     margin-top: 10px;
-    border:1px solid red;
    
 }
   
@@ -203,7 +189,6 @@
     background-color:rgba(207, 192, 192, 0.42);
     text-decoration: none;
     font-size:25px;
-    border:1px solid red;
     width:140px;
     display:block;
     height: 40px;
@@ -240,14 +225,12 @@
     overflow: hidden;
     justify-content:center;
     border-radius:20px;
-    border:1px solid red;
     
 }
 .newsletter input{
     width:60%;
     height:25px;
     border:none;
-    border:1px solid red;
     border-radius:8px 0px 0px 8px;
     
 }
@@ -259,7 +242,6 @@
     width: 100px;
     height:30px;
     border:none;
-    border:1px solid red;
     border-radius:0px 8px 8px 0px;
     
     
